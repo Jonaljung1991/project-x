@@ -3,3 +3,21 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+body *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-categories{
+  width: 40vw;
+  height: 30vh;
+  max-width: 300px;
+  box-shadow: 4px 2px 4px 2px gray;
+  text-align: center;
+}
+
+.main-categories h1{
+  background-color: black;
+  color:white;
+  opacity: 0.75;
+}
